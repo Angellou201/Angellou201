@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:242424&height=180&section=header&text=NULL&fontColor=ffffff&fontSize=60&fontAlignY=38" width="100%" alt="Header" />
 
   <br><br>
+---
 
   <!-- 2. GIF Aiko y Punpun -->
   <img src="https://64.media.tumblr.com/61cc5f11ba21ccf30e45bccca719fc2d/344c2a6cb6353f8e-26/s1280x1920/98068639253e8f8e13b1246c2bd3a93b055e208b.gif" width="220px" alt="Anime GIF" />
@@ -16,7 +17,7 @@
 <div align="center">
 
   <!-- Título principal -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=10000&pause=10000&color=FFFFFF&center=true&vCenter=true&width=400&lines=---++STACK+%26+TOOLS++---" alt="Stack and Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=10000&pause=10000&color=FFFFFF&center=true&vCenter=true&width=400&lines=++LENGUAJES++" />
 
   <br><br><br>
 

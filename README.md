@@ -12,19 +12,40 @@
 
 ---
 
-### 🛠️ Stack & Herramientas
+<!-- 3. Banners / Títulos en Imagen para Stack & Herramientas -->
+<div align="center">
 
-#### 💻 Lenguajes & Bases de Datos
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2c2c2c?style=for-the-badge&logo=postgresql&logoColor=white)
+  <!-- Título principal -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=10000&pause=10000&color=FFFFFF&center=true&vCenter=true&width=400&lines=---++STACK+%26+TOOLS++---" alt="Stack and Tools" />
 
-#### ⚙️ Entorno & Control
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-1c1c1c?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <br><br><br>
+
+  <!-- Subtítulo Lenguajes -->
+  <img src="https://img.shields.io/badge/-%20LANGUAGES%20%26%20DATABASES%20--000000?style=for-the-badge&logoColor=white" />
+
+  <br><br>
+
+  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=white)
+  
+  <br>
+
+  ![Python](https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-2c2c2c?style=for-the-badge&logo=postgresql&logoColor=white)
+
+  <br><br><br>
+
+  <!-- Subtítulo Entorno -->
+  <img src="https://img.shields.io/badge/-%20ENVIRONMENT%20%26%20TOOLS%20--000000?style=for-the-badge&logoColor=white" />
+
+  <br><br>
+
+  ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-1c1c1c?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 

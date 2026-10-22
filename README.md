@@ -12,28 +12,19 @@
 
 ---
 
-<!-- 3. Stack & Herramientas estilizado -->
-<div align="center">
+### 🛠️ Stack & Herramientas
 
-  <h3>⚡ 𝐒𝐭𝐚𝐜𝐤 & 𝐇𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬 ⚡</h3>
-  <br>
+#### 💻 Lenguajes & Bases de Datos
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2c2c2c?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <h4>✦ Lenguajes & Datos ✦</h4>
-  <br>
-  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-2c2c2c?style=for-the-badge&logo=postgresql&logoColor=white)
-
-  <br><br>
-  <h4>✦ Entorno & Control ✦</h4>
-  <br>
-  ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-1c1c1c?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+#### ⚙️ Entorno & Control
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1c1c1c?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 

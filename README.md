@@ -5,13 +5,14 @@
 
   <br><br>
 
-  <!-- GIF anime/manga estilo B&W -->
+  <!-- Aiko y pun pun-->
 <img src="https://64.media.tumblr.com/61cc5f11ba21ccf30e45bccca719fc2d/344c2a6cb6353f8e-26/s1280x1920/98068639253e8f8e13b1246c2bd3a93b055e208b.gif" width="220px" alt="Anime GIF" />
 
   <br><br>
 
   <!-- Typing monocromático -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Code+%26+Silence+🖤;Left+4+Dead+2+Survivor+🧟;Goodnight+Punpun+📖;Minimalist+Vibes" alt="Typing SVG" />
+
 
   <br><br>
 

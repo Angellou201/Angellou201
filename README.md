@@ -9,30 +9,26 @@
 
 <div align="center">
 
-  <!-- Título principal animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=---++STACK+%26+TOOLS++---" alt="Stack & Tools" />
+  <!-- Título Lenguajes -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=---++LENGUAJES++---" alt="Lenguajes" />
 
   <br><br>
 
-  <!-- Lenguajes & Bases de Datos -->
-  <h3 style="color: #ffffff;">💻 Lenguajes & Bases de Datos</h3>
-  <br>
-
+  <!-- Lenguajes juntos -->
   ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=white)
-  
-  <br><br>
-
   ![Python](https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-2c2c2c?style=for-the-badge&logo=postgresql&logoColor=white)
 
+  <br><br><br>
+
+  <!-- Título Herramientas -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=---++HERRAMIENTAS++---" alt="Herramientas" />
+
   <br><br>
 
-  <!-- Entorno & Herramientas -->
-  <h3 style="color: #ffffff;">⚙️ Entorno & Herramientas</h3>
-  <br>
-
+  <!-- Herramientas -->
   ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-1c1c1c?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -47,18 +43,12 @@
   > *"May you never forget me"*  
   > — *Goodnight Punpun*
 
-  <br><br>
+</div>
+
+---
+
+<div align="center">
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Code+%26+Silence;Left+4+Dead+2+Pro+Player;Goodnight+Punpun;Minimalist+Vibes" alt="Typing SVG" />
-  </a>
-
-  <br><br>
-
-  <!-- GIF Aiko y Punpun -->
-  <img src="https://64.media.tumblr.com/61cc5f11ba21ccf30e45bccca719fc2d/344c2a6cb6353f8e-26/s1280x1920/98068639253e8f8e13b1246c2bd3a93b055e208b.gif" width="220px" alt="Anime GIF" />
-
-  <br><br>
-
-  <!-- Bad
+    <img src="

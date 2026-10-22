@@ -3,8 +3,8 @@
 <!-- Header con degradado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Angel&fontSize=70&fontAlignY=38&desc=Estudiante%20de%20Sistemas%20%7C%20Full%20Stack%20en%20proceso&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-<!-- 👉 Pega aquí tu GIF principal (ej: Punpun, Shinji o similar) -->
-<img src="URL_DE_TU_GIF_PRINCIPAL.gif" width="220px" alt="Anime GIF principal" />
+<!-- GIF principal -->
+<img src="https://pin.it/7sSlDfeR3" width="220px" alt="Anime GIF principal" />
 
 <br><br>
 
@@ -13,8 +13,8 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Ubicación-Lima,%20Perú-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-<img src="https://img.shields.io/badge/Estudiante-IDAT-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ubicación-Lima-?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/Estudiante-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Rol-Jugador%20Pro%20de%20L4D2-red?style=for-the-badge&logo=steam" />
 
 <br>
@@ -25,50 +25,11 @@
 
 ---
 
-### 👨‍💻 Sobre mí
-
-Soy **Angel**, estudiante de Sistemas en **IDAT** (Lima, Perú). Le estoy dando duro al código para romperla como **Full Stack**. Cuando no ando programando, me encuentras viciando en **Left 4 Dead 2** o leyendo mangas.
-
-- 🎓 Estudiando Sistemas en **IDAT**
-- 🌱 Aprendiendo desarrollo **Full Stack**
-- 🧟 Sobreviviendo hordas en **L4D2**
-- 📚 Leyendo manga y viendo anime
-- 📫 ¿Colaboramos? ¡Escríbeme!
 
 > *"May you never forget me"* — *Goodnight Punpun*
 
 ---
 
-### 🎌 Mi mundo anime
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <!-- 👉 GIF de Oyasumi Punpun -->
-      <img src="URL_GIF_PUNPUN.gif" width="250px" alt="Oyasumi Punpun" /><br>
-      <b>Oyasumi Punpun</b><br>
-      <sub>Mi obra favorita 🐦</sub>
-    </td>
-    <td align="center" width="33%">
-      <!-- 👉 GIF de School Days -->
-      <img src="URL_GIF_SCHOOL_DAYS.gif" width="250px" alt="School Days" /><br>
-      <b>School Days</b><br>
-      <sub>Nice boat 🚤</sub>
-    </td>
-    <td align="center" width="33%">
-      <!-- 👉 GIF de Evangelion -->
-      <img src="URL_GIF_EVANGELION.gif" width="250px" alt="Evangelion" /><br>
-      <b>Neon Genesis Evangelion</b><br>
-      <sub>Get in the robot 🤖</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ### 🛠️ Tecnologías
 
@@ -107,12 +68,12 @@ Soy **Angel**, estudiante de Sistemas en **IDAT** (Lima, Perú). Le estoy dando 
 
 ---
 
-### 🎮 Cuando no estoy codeando
+### 🎮
 
 <div align="center">
 
-<!-- 👉 GIF de L4D2 o de otro anime que te guste -->
-<img src="URL_GIF_EXTRA.gif" width="300px" alt="GIF extra" />
+<!--gif cmbsd -->
+<img src="https://64.media.tumblr.com/61cc5f11ba21ccf30e45bccca719fc2d/344c2a6cb6353f8e-26/s1280x1920/98068639253e8f8e13b1246c2bd3a93b055e208b.gifv" width="300px" alt="GIF extra" />
 
 <br><br>
 
@@ -126,7 +87,7 @@ Soy **Angel**, estudiante de Sistemas en **IDAT** (Lima, Perú). Le estoy dando 
 
 <div align="center">
 
-**¡Gracias por pasar por aquí!** ✨
+**b y el ** 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer" />
 

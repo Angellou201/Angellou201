@@ -6,7 +6,7 @@
   <br><br>
 
   <!-- GIF anime/manga estilo B&W -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hveGJ3aXpxeWZqNmR4bWl3M3J5bnl6bzJvN2R3ZXRreW1vNzRoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13S9Dd63Q9JUqs/giphy.gif" width="200px" alt="Anime GIF" />
+<img src="https://64.media.tumblr.com/61cc5f11ba21ccf30e45bccca719fc2d/344c2a6cb6353f8e-26/s1280x1920/98068639253e8f8e13b1246c2bd3a93b055e208b.gif" width="220px" alt="Anime GIF" />
 
   <br><br>
 

@@ -51,4 +51,29 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Code+%26+Silence;Left+4+Dead+2+Pro+Player;Goodnight+Punpun;Minimalist+Vibes" alt="Typing SVG" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- GIF Aiko y Punpun -->
+  <img src="https://64.media.tumblr.com/61cc5f11ba21ccf30e45bccca719fc2d/344c2a6cb6353f8e-26/s1280x1920/98068639253e8f8e13b1246c2bd3a93b055e208b.gif" width="220px" alt="Anime GIF" />
+
+  <br><br>
+
+  <!-- Badges de GitHub y Steam/L4D2 -->
+  <img src="https://img.shields.io/badge/Mode-Monochrome-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game-L4D2-111111?style=for-the-badge&logo=steam&logoColor=white" />
+
+</div>
+
+---
+
+<!-- Acabado final (Footer) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:242424&height=100&section=footer" width="100%" alt="Footer" />
+</div>

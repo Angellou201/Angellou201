@@ -11,7 +11,13 @@
   <br><br>
 
   <!-- Typing monocromático -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Code+%26+Silence+🖤;Left+4+Dead+2+Survivor+🧟;Goodnight+Punpun+📖;Minimalist+Vibes" alt="Typing SVG" />
+
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Code+%26+Silence+%F0%9F%90%BA;Left+4+Dead+2+Survivor+%F0%9F%A7%9F;Goodnight+Punpun+%F0%9F%93%96;Minimalist+Vibes" alt="Typing SVG" />
+  </a>
+</div>
+
 
 
   <br><br>

@@ -10,7 +10,7 @@
 <div align="center">
 
   <!-- Título Lenguajes -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=---++LENGUAJES++---" alt="Lenguajes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=LENGUAJES" alt="Lenguajes" />
 
   <br><br>
 
@@ -24,7 +24,7 @@
   <br><br><br>
 
   <!-- Título Herramientas -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=---++HERRAMIENTAS++---" alt="Herramientas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=HERRAMIENTAS" alt="Herramientas" />
 
   <br><br>
 

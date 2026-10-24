@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header monocromático -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:242424&height=180&section=header&text=NULL&fontColor=ffffff&fontSize=60&fontAlignY=38" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:242424&height=180&section=header&text=LMAO&fontColor=ffffff&fontSize=60&fontAlignY=38" width="100%" alt="Header" />
 
 </div>
 
@@ -66,9 +66,9 @@
 <div align="center">
 
   <!-- GIF Aiko y Punpun -->
-  <img src="https://64.media.tumblr.com/61cc5f11ba21ccf30e45bccca719fc2d/344c2a6cb6353f8e-26/s1280x1920/98068639253e8f8e13b1246c2bd3a93b055e208b.gif" width="220px" alt="Anime GIF" />
+  <img src="https://64.media.tumblr.com/61cc5f11ba21ccf30e45bccca719fc2d/344c2a6cb6353f8e-26/s1280x1920/98068639253e8f8e13b1246c2bd3a93b055e208b.gif" width="300px" alt="pun pun y Aiko GIF" />
 
-  <br><br>
+  <br>
 
   <!-- Badges de GitHub y Steam/L4D2 -->
   <img src="https://img.shields.io/badge/Mode-Monochrome-000000?style=for-the-badge&logo=github&logoColor=white" />

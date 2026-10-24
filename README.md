@@ -12,7 +12,7 @@
   <!-- Título Lenguajes -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=LENGUAJES" alt="Lenguajes" />
 
-  <br><br>
+  <br>
 
   <!-- Lenguajes juntos -->
   ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +22,8 @@
   ![SQL](https://img.shields.io/badge/SQL-2c2c2c?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
-  ---
+ 
+
 
 <div align="center">
 
@@ -30,7 +31,7 @@
   <!-- Título Herramientas -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=HERRAMIENTAS" alt="Herramientas" />
 
-  <br><br>
+  <br>
 
   <!-- Herramientas -->
   ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)

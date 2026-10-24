@@ -5,7 +5,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -80,7 +79,6 @@
 
 </div>
 
----
 
 <!-- Acabado final (Footer) -->
 <div align="center">
